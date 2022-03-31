@@ -1,0 +1,6 @@
+{
+    "excelFile": "C:\\Users\\flexn\\pythonProject\\DBTest\\ExcelTest\\Docs\\QA_home_assignment_2022.xlsx",
+    "sheet1": ["Legacy DB", "Brand Action Date", "User Unique ID"],
+    "sheet2": ["Scalable DB", "Period", "ACID"]
+
+}
